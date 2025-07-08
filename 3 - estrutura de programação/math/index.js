@@ -10,3 +10,7 @@ console.log(menor)
 
 let arredondar = Math.round(1.8)
 console.log(arredondar)
+
+let arredondarCima = Math.ceil(3.1)
+
+console.log(arredondarCima)
