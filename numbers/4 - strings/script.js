@@ -1,0 +1,5 @@
+console.log(typeof 'ISTO E UMA STRING')
+console.log(typeof 'Este texto tambem')
+console.log(typeof `e esse tambem`)
+console.log(typeof 'Infinity')
+console.log(typeof Infinity)
